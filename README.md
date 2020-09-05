@@ -1,2 +1,2 @@
-# cruzeiroTasks
+# cruzeiro-tasks
 ...
