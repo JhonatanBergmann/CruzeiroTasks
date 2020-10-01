@@ -21,6 +21,8 @@ Ferramenta para auxiliar alunos da Universidade Cruzeiro do Sul com as disciplin
 <p align="center">
   <img src="github/gifhome.gif" alt="Demo" >
   <img src="github/giffilter.gif" alt="Demo" >
+</p>
+<p align="center">
   <img src="github/gifremove.gif" alt="Demo" >
   <img src="github/gifadd.gif" alt="Demo" >
 </p>
