@@ -5,6 +5,15 @@
   <br>
 </h1>
 
+<p align="center">
+  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/JhonatanBergmann/CruzeiroTasks" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JhonatanBergmann/CruzeiroTasks" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/JhonatanBergmann/CruzeiroTasks" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/JhonatanBergmann/CruzeiroTasks" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JhonatanBergmann/CruzeiroTasks" />
+  <img alt="Github License" src="https://img.shields.io/github/license/JhonatanBergmann/CruzeiroTasks" />
+</p>
+
 <p align="center">Aplicação para Taréfas Acadêmicas</p>
 
 <br>
