@@ -39,19 +39,6 @@ Ferramenta para auxiliar alunos da Universidade Cruzeiro do Sul com as disciplin
 ## 🛠 Tecnologias
 - [React Native](https://facebook.github.io/react-native/)
 - [Javascript](https://devdocs.io/javascript/)
-- [Node](https://nodejs.org/en/)
-<br/>-
-- [moment](https://momentjs.com/)
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-- [react-native-responsive-screen](https://www.npmjs.com/package/react-native-responsive-screen)
-- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
-- [@react-native-community/datetimepicker](https://github.com/react-native-community/datetimepicker)
-- [@react-native-community/async-storage](https://react-native-community.github.io/async-storage/)
-- [@react-navigation/native](https://reactnavigation.org/)
-- [@react-navigation/stack](https://reactnavigation.org/docs/stack-navigator/)
-
-*Foram usados outros, mas esses são os principais.*
-
 
 ## 📱 Executando 
 
